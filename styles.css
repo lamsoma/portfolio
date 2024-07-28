@@ -54,9 +54,8 @@ nav ul li a:hover {
 
 .profile-photo {
     display: block;
-    max-width: 150px; /* Adjusted max-width for smaller size */
+    max-width: 450px; /* Adjusted max-width for smaller size */
     margin: 0 auto;
-    border-radius: 50%;
 }
 
 p, .whitespace-pre-wrap {
